@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/create-connect/quiz-biblico/static/css/main.7ef951c3.css",
+    "main.js": "/create-connect/quiz-biblico/static/js/main.4bc9c0a2.js",
+    "static/js/488.bdb6999d.chunk.js": "/create-connect/quiz-biblico/static/js/488.bdb6999d.chunk.js",
+    "index.html": "/create-connect/quiz-biblico/index.html",
+    "main.7ef951c3.css.map": "/create-connect/quiz-biblico/static/css/main.7ef951c3.css.map",
+    "main.4bc9c0a2.js.map": "/create-connect/quiz-biblico/static/js/main.4bc9c0a2.js.map",
+    "488.bdb6999d.chunk.js.map": "/create-connect/quiz-biblico/static/js/488.bdb6999d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef951c3.css",
+    "static/js/main.4bc9c0a2.js"
+  ]
+}

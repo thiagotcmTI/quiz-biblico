@@ -1,0 +1,1538 @@
+[
+    {
+        "pergunta": "Quem da lista não é filho de Lia?",
+        "opcoes": [
+            {
+                "texto": "Simeão",
+                "correta": false
+            },
+            {
+                "texto": "José",
+                "correta": true
+            },
+            {
+                "texto": "Judá",
+                "correta": false
+            },
+            {
+                "texto": "Levi",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem era irmã de Lia?",
+        "opcoes": [
+            {
+                "texto": "Raquel",
+                "correta": true
+            },
+            {
+                "texto": "Sara",
+                "correta": false
+            },
+            {
+                "texto": "Rebeca",
+                "correta": false
+            },
+            {
+                "texto": "Ana",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Onde Jacó faleceu?",
+        "opcoes": [
+            {
+                "texto": "Israel",
+                "correta": false
+            },
+            {
+                "texto": "Egito",
+                "correta": true
+            },
+            {
+                "texto": "Síria",
+                "correta": false
+            },
+            {
+                "texto": "Cananeia",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro ser humano a nascer na terra?",
+        "opcoes": [
+            {
+                "texto": "Adão",
+                "correta": false
+            },
+            {
+                "texto": "Caim",
+                "correta": true
+            },
+            {
+                "texto": "Abel",
+                "correta": false
+            },
+            {
+                "texto": "Sete",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem ficou temporariamente mudo?",
+        "opcoes": [
+            {
+                "texto": "Zacarias",
+                "correta": true
+            },
+            {
+                "texto": "João",
+                "correta": false
+            },
+            {
+                "texto": "Moisés",
+                "correta": false
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual tribo ficou responsável por cuidar do templo?",
+        "opcoes": [
+            {
+                "texto": "Manassés",
+                "correta": false
+            },
+            {
+                "texto": "Judá",
+                "correta": false
+            },
+            {
+                "texto": "Levi",
+                "correta": true
+            },
+            {
+                "texto": "Efraim",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem era conhecido como 'o filho da promessa'?",
+        "opcoes": [
+            {
+                "texto": "Isaque",
+                "correta": true
+            },
+            {
+                "texto": "Jacó",
+                "correta": false
+            },
+            {
+                "texto": "José",
+                "correta": false
+            },
+            {
+                "texto": "Ismael",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem era irmão de Pedro?",
+        "opcoes": [
+            {
+                "texto": "Tiago",
+                "correta": false
+            },
+            {
+                "texto": "André",
+                "correta": true
+            },
+            {
+                "texto": "João",
+                "correta": false
+            },
+            {
+                "texto": "Tomé",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi instruído 'aos pés de Gamaliel'?",
+        "opcoes": [
+            {
+                "texto": "Paulo",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual dessas parábolas Jesus não contou?",
+        "opcoes": [
+            {
+                "texto": "A parábola da dracma perdida",
+                "correta": false
+            },
+            {
+                "texto": "A parábola do soldado prudente",
+                "correta": true
+            },
+            {
+                "texto": "A parábola do bom samaritano",
+                "correta": false
+            },
+            {
+                "texto": "A parábola do filho pródigo",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quais desses nomes não faziam parte das 12 tribos de Israel?",
+        "opcoes": [
+            {
+                "texto": "Levi",
+                "correta": false
+            },
+            {
+                "texto": "Issacar",
+                "correta": false
+            },
+            {
+                "texto": "Diná",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Quais desses nomes não era um casal?",
+        "opcoes": [
+            {
+                "texto": "Abraão e Sara",
+                "correta": false
+            },
+            {
+                "texto": "Jacó e Ana",
+                "correta": true
+            },
+            {
+                "texto": "Isaque e Rebeca",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem era o irmão de Jacó?",
+        "opcoes": [
+            {
+                "texto": "Isaque",
+                "correta": false
+            },
+            {
+                "texto": "Arão",
+                "correta": false
+            },
+            {
+                "texto": "Esaú",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Quais desses nomes não estão na Bíblia?",
+        "opcoes": [
+            {
+                "texto": "Abigail, Lídia e Marta",
+                "correta": false
+            },
+            {
+                "texto": "Alexa, Sol e Cecília",
+                "correta": true
+            },
+            {
+                "texto": "Ana, Ester e Rute",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "André era irmão de qual apóstolo?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": true
+            },
+            {
+                "texto": "João",
+                "correta": false
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Por que Caim matou Abel?",
+        "opcoes": [
+            {
+                "texto": "Por uma herança.",
+                "correta": false
+            },
+            {
+                "texto": "Pelo poder.",
+                "correta": false
+            },
+            {
+                "texto": "Por inveja.",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem era a mãe de Caim e Abel?",
+        "opcoes": [
+            {
+                "texto": "Sara",
+                "correta": false
+            },
+            {
+                "texto": "Eva",
+                "correta": true
+            },
+            {
+                "texto": "Eloá",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem era rei e sacerdote no período de Abraão?",
+        "opcoes": [
+            {
+                "texto": "Azalias",
+                "correta": false
+            },
+            {
+                "texto": "Nabucodonosor",
+                "correta": false
+            },
+            {
+                "texto": "Melquisedeque",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Quais desses anjos não é citado na Bíblia evangélica?",
+        "opcoes": [
+            {
+                "texto": "Miguel",
+                "correta": false
+            },
+            {
+                "texto": "Rafael",
+                "correta": true
+            },
+            {
+                "texto": "Gabriel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual tribo ficou responsável por cuidar do templo e guiar o povo na adoração a Deus?",
+        "opcoes": [
+            {
+                "texto": "Manassés",
+                "correta": false
+            },
+            {
+                "texto": "Levi",
+                "correta": true
+            },
+            {
+                "texto": "Judá",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi Asafe?",
+        "opcoes": [
+            {
+                "texto": "Rei de Judá",
+                "correta": false
+            },
+            {
+                "texto": "Levita",
+                "correta": true
+            },
+            {
+                "texto": "Fariseu",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o maior Salmo da Bíblia?",
+        "opcoes": [
+            {
+                "texto": "Salmo 23",
+                "correta": false
+            },
+            {
+                "texto": "Salmo 119",
+                "correta": true
+            },
+            {
+                "texto": "Salmo 91",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos livros tem a Bíblia protestante?",
+        "opcoes": [
+            {
+                "texto": "77 Livros.",
+                "correta": false
+            },
+            {
+                "texto": "62 Livros",
+                "correta": false
+            },
+            {
+                "texto": "66 Livros",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual a referência do versículo: 'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'?",
+        "opcoes": [
+            {
+                "texto": "João 1:1",
+                "correta": true
+            },
+            {
+                "texto": "João 3:10",
+                "correta": false
+            },
+            {
+                "texto": "João 3:16",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem era conhecido na Bíblia como 'o filho da promessa'?",
+        "opcoes": [
+            {
+                "texto": "Jacó",
+                "correta": false
+            },
+            {
+                "texto": "Isaque",
+                "correta": true
+            },
+            {
+                "texto": "Ismael",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual profeta era calvo e chegou a ser zombado pela sua aparência?",
+        "opcoes": [
+            {
+                "texto": "Jonas",
+                "correta": false
+            },
+            {
+                "texto": "Samuel",
+                "correta": false
+            },
+            {
+                "texto": "Eliseu",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Que personagem bíblico era ruivo?",
+        "opcoes": [
+            {
+                "texto": "Jesus",
+                "correta": false
+            },
+            {
+                "texto": "Davi",
+                "correta": true
+            },
+            {
+                "texto": "Daniel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual profeta é conhecido devido às lamentações?",
+        "opcoes": [
+            {
+                "texto": "Jeremias",
+                "correta": true
+            },
+            {
+                "texto": "Zacarias",
+                "correta": false
+            },
+            {
+                "texto": "Amós",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem escreveu o Livro de Apocalipse?",
+        "opcoes": [
+            {
+                "texto": "Paulo de Tarso",
+                "correta": false
+            },
+            {
+                "texto": "João Batista",
+                "correta": false
+            },
+            {
+                "texto": "João Evangelista",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Por quanto tempo Moisés e o povo hebreu ficaram no deserto?",
+        "opcoes": [
+            {
+                "texto": "40 dias",
+                "correta": false
+            },
+            {
+                "texto": "40 anos",
+                "correta": true
+            },
+            {
+                "texto": "40 semanas",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem é o 'Pão da Vida'?",
+        "opcoes": [
+            {
+                "texto": "João",
+                "correta": false
+            },
+            {
+                "texto": "Jesus",
+                "correta": true
+            },
+            {
+                "texto": "Elias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o nome do irmão de Moisés?",
+        "opcoes": [
+            {
+                "texto": "Arão",
+                "correta": true
+            },
+            {
+                "texto": "Josué",
+                "correta": false
+            },
+            {
+                "texto": "Caleb",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro rei de Israel?",
+        "opcoes": [
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Saul",
+                "correta": true
+            },
+            {
+                "texto": "Salomão",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que enfrentou os 450 profetas de Baal?",
+        "opcoes": [
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que disse: 'Eis que vou fazer uma nova aliança com o povo de Israel'?",
+        "opcoes": [
+            {
+                "texto": "Jeremias",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            },
+            {
+                "texto": "Amós",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o nome do discípulo conhecido como 'o amado'?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": true
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi a mãe de Samuel?",
+        "opcoes": [
+            {
+                "texto": "Ana",
+                "correta": true
+            },
+            {
+                "texto": "Raquel",
+                "correta": false
+            },
+            {
+                "texto": "Isabel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual rei mandou construir o templo em Jerusalém?",
+        "opcoes": [
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Salomão",
+                "correta": true
+            },
+            {
+                "texto": "Ezequias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o nome do rei que teve um sonho com uma estátua e Daniel a interpretou?",
+        "opcoes": [
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Nabucodonosor",
+                "correta": true
+            },
+            {
+                "texto": "Ciro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem escreveu o Livro de Provérbios?",
+        "opcoes": [
+            {
+                "texto": "Salomão",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o juiz que derrotou os midianitas com apenas 300 homens?",
+        "opcoes": [
+            {
+                "texto": "Sansão",
+                "correta": false
+            },
+            {
+                "texto": "Gideão",
+                "correta": true
+            },
+            {
+                "texto": "Jefté",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o líder que sucedeu Moisés?",
+        "opcoes": [
+            {
+                "texto": "Josué",
+                "correta": true
+            },
+            {
+                "texto": "Caleb",
+                "correta": false
+            },
+            {
+                "texto": "Samuel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem negou Jesus três vezes antes do galo cantar?",
+        "opcoes": [
+            {
+                "texto": "Tiago",
+                "correta": false
+            },
+            {
+                "texto": "Pedro",
+                "correta": true
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o nome do discípulo que traiu Jesus?",
+        "opcoes": [
+            {
+                "texto": "Simão",
+                "correta": false
+            },
+            {
+                "texto": "Judas",
+                "correta": true
+            },
+            {
+                "texto": "Mateus",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era o ofício de Mateus antes de seguir Jesus?",
+        "opcoes": [
+            {
+                "texto": "Pescador",
+                "correta": false
+            },
+            {
+                "texto": "Publicano",
+                "correta": true
+            },
+            {
+                "texto": "Carpinteiro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Onde Jesus nasceu?",
+        "opcoes": [
+            {
+                "texto": "Jerusalém",
+                "correta": false
+            },
+            {
+                "texto": "Belém",
+                "correta": true
+            },
+            {
+                "texto": "Nazareth",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o pai de João Batista?",
+        "opcoes": [
+            {
+                "texto": "Zacarias",
+                "correta": true
+            },
+            {
+                "texto": "José",
+                "correta": false
+            },
+            {
+                "texto": "Simão",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o rei que lançou Daniel na cova dos leões?",
+        "opcoes": [
+            {
+                "texto": "Ciro",
+                "correta": false
+            },
+            {
+                "texto": "Dário",
+                "correta": true
+            },
+            {
+                "texto": "Nabucodonosor",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que desafiou o rei Acabe e a rainha Jezabel?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o pai de José, o soldado romano?",
+        "opcoes": [
+            {
+                "texto": "Rúben",
+                "correta": false
+            },
+            {
+                "texto": "Jacó",
+                "correta": true
+            },
+            {
+                "texto": "Isaac",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era o nome do pai de José, o interprete dos sonhos?",
+        "opcoes": [
+            {
+                "texto": "Jacob",
+                "correta": true
+            },
+            {
+                "texto": "Isaac",
+                "correta": false
+            },
+            {
+                "texto": "Moisés",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que desafiou os profetas de Baal no Monte Carmelo?",
+        "opcoes": [
+            {
+                "texto": "Elías",
+                "correta": true
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o rei que construiu o Templo de Deus em Jerusalém?",
+        "opcoes": [
+            {
+                "texto": "Salomão",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Saul",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o rei de Israel conhecido por sua sabedoria?",
+        "opcoes": [
+            {
+                "texto": "Salomão",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Ezequias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual apóstolo escreveu o Livro de Apocalipse?",
+        "opcoes": [
+            {
+                "texto": "João",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Paulo",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Onde Jesus realizou o milagre de alimentar 5.000 pessoas com cinco pães e dois peixes?",
+        "opcoes": [
+            {
+                "texto": "Montanha",
+                "correta": false
+            },
+            {
+                "texto": "Boca do mar",
+                "correta": false
+            },
+            {
+                "texto": "Beira do mar da Galiléia",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro apóstolo a ser martirizado?",
+        "opcoes": [
+            {
+                "texto": "Tiago",
+                "correta": true
+            },
+            {
+                "texto": "Paulo",
+                "correta": false
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o livro bíblico que conta a história de Ester?",
+        "opcoes": [
+            {
+                "texto": "Ester",
+                "correta": true
+            },
+            {
+                "texto": "Daniel",
+                "correta": false
+            },
+            {
+                "texto": "Juízes",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem traiu Jesus por trinta moedas de prata?",
+        "opcoes": [
+            {
+                "texto": "Judas Iscariotes",
+                "correta": true
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o líder militar que sucedeu Moisés?",
+        "opcoes": [
+            {
+                "texto": "Josué",
+                "correta": true
+            },
+            {
+                "texto": "Caleb",
+                "correta": false
+            },
+            {
+                "texto": "Samuel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o último juiz de Israel?",
+        "opcoes": [
+            {
+                "texto": "Samuel",
+                "correta": true
+            },
+            {
+                "texto": "Sansão",
+                "correta": false
+            },
+            {
+                "texto": "Débora",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos anos Davi tinha quando derrotou Golias?",
+        "opcoes": [
+            {
+                "texto": "15",
+                "correta": true
+            },
+            {
+                "texto": "20",
+                "correta": false
+            },
+            {
+                "texto": "25",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos livros compõem o Novo Testamento?",
+        "opcoes": [
+            {
+                "texto": "27",
+                "correta": true
+            },
+            {
+                "texto": "39",
+                "correta": false
+            },
+            {
+                "texto": "22",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era o nome da esposa de Abraão?",
+        "opcoes": [
+            {
+                "texto": "Sara",
+                "correta": true
+            },
+            {
+                "texto": "Rebeca",
+                "correta": false
+            },
+            {
+                "texto": "Raquel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Em qual cidade nasceu Jesus?",
+        "opcoes": [
+            {
+                "texto": "Jerusalém",
+                "correta": false
+            },
+            {
+                "texto": "Belém",
+                "correta": true
+            },
+            {
+                "texto": "Nazaré",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que ungiu Davi como rei?",
+        "opcoes": [
+            {
+                "texto": "Samuel",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            },
+            {
+                "texto": "Elias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro rei de Israel?",
+        "opcoes": [
+            {
+                "texto": "Saul",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Salomão",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos discípulos Jesus teve?",
+        "opcoes": [
+            {
+                "texto": "12",
+                "correta": true
+            },
+            {
+                "texto": "10",
+                "correta": false
+            },
+            {
+                "texto": "15",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que desafiou os profetas de Baal?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que substituiu Moisés?",
+        "opcoes": [
+            {
+                "texto": "Josué",
+                "correta": true
+            },
+            {
+                "texto": "Elias",
+                "correta": false
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual apóstolo escreveu a maioria das cartas do Novo Testamento?",
+        "opcoes": [
+            {
+                "texto": "Paulo",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o primeiro livro do Antigo Testamento?",
+        "opcoes": [
+            {
+                "texto": "Gênesis",
+                "correta": true
+            },
+            {
+                "texto": "Êxodo",
+                "correta": false
+            },
+            {
+                "texto": "Levítico",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem traiu Jesus por 30 peças de prata?",
+        "opcoes": [
+            {
+                "texto": "Judas Iscariotes",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era o nome do pai de João Batista?",
+        "opcoes": [
+            {
+                "texto": "Zacarías",
+                "correta": true
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Isaac",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro rei de Israel?",
+        "opcoes": [
+            {
+                "texto": "Saul",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Salomão",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem é conhecido como o 'Homem segundo o coração de Deus'?",
+        "opcoes": [
+            {
+                "texto": "Davi",
+                "correta": true
+            },
+            {
+                "texto": "Moisés",
+                "correta": false
+            },
+            {
+                "texto": "Abraão",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Onde Jesus nasceu?",
+        "opcoes": [
+            {
+                "texto": "Belém",
+                "correta": true
+            },
+            {
+                "texto": "Nazaré",
+                "correta": false
+            },
+            {
+                "texto": "Jerusalém",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que desafiou os profetas de Baal?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem escreveu o livro de Apocalipse?",
+        "opcoes": [
+            {
+                "texto": "João",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Paulo",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o pai de Jacó?",
+        "opcoes": [
+            {
+                "texto": "Isaac",
+                "correta": true
+            },
+            {
+                "texto": "Abraham",
+                "correta": false
+            },
+            {
+                "texto": "Moisés",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o líder que levou os israelitas à Terra Prometida?",
+        "opcoes": [
+            {
+                "texto": "Josué",
+                "correta": true
+            },
+            {
+                "texto": "Moisés",
+                "correta": false
+            },
+            {
+                "texto": "Caleb",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que disse: 'Eis que vos envio o meu mensageiro'? ",
+        "opcoes": [
+            {
+                "texto": "Malaquias",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            },
+            {
+                "texto": "Jeremias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual apóstolo negou Jesus três vezes antes do galo cantar?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": true
+            },
+            {
+                "texto": "João",
+                "correta": false
+            },
+            {
+                "texto": "André",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem curou o cego de nascença?",
+        "opcoes": [
+            {
+                "texto": "Jesus",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Paulo",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual foi o primeiro milagre de Jesus?",
+        "opcoes": [
+            {
+                "texto": "Transformou água em vinho",
+                "correta": true
+            },
+            {
+                "texto": "Curou um cego",
+                "correta": false
+            },
+            {
+                "texto": "Curou um paralítico",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual discípulo era conhecido como 'o Dídimo'?",
+        "opcoes": [
+            {
+                "texto": "Tomé",
+                "correta": true
+            },
+            {
+                "texto": "Mateus",
+                "correta": false
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Em que cidade Paulo foi preso?",
+        "opcoes": [
+            {
+                "texto": "Filipos",
+                "correta": true
+            },
+            {
+                "texto": "Corinto",
+                "correta": false
+            },
+            {
+                "texto": "Éfeso",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual dos apóstolos escreveu o evangelho que leva seu nome?",
+        "opcoes": [
+            {
+                "texto": "Mateus",
+                "correta": true
+            },
+            {
+                "texto": "Lucas",
+                "correta": false
+            },
+            {
+                "texto": "Marcos",
+                "correta": false
+            }
+        ]
+    }
+]

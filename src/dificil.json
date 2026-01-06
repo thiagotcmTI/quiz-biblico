@@ -1,0 +1,1260 @@
+[
+    {
+        "pergunta": "A quem Paulo chamou de 'meu companheiro de lutas'?",
+        "opcoes": [
+            {
+                "texto": "Apolo",
+                "correta": false
+            },
+            {
+                "texto": "Arquipo",
+                "correta": true
+            },
+            {
+                "texto": "Áfia",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quais discípulos perguntaram a Jesus se podiam fazer descer fogo do céu?",
+        "opcoes": [
+            {
+                "texto": "João e Tiago",
+                "correta": true
+            },
+            {
+                "texto": "Pedro e João",
+                "correta": false
+            },
+            {
+                "texto": "Tiago e Pedro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era o nome da serpente de bronze que Moisés fez no deserto?",
+        "opcoes": [
+            {
+                "texto": "Aserá",
+                "correta": false
+            },
+            {
+                "texto": "Leviatã",
+                "correta": false
+            },
+            {
+                "texto": "Neustã",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era o nome babilônico de Daniel?",
+        "opcoes": [
+            {
+                "texto": "Aspenaz",
+                "correta": false
+            },
+            {
+                "texto": "Beltessazar",
+                "correta": true
+            },
+            {
+                "texto": "Abede-Nego",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o nome que Jacó deu ao lugar onde sonhou com Deus?",
+        "opcoes": [
+            {
+                "texto": "Betuel",
+                "correta": false
+            },
+            {
+                "texto": "Luz",
+                "correta": false
+            },
+            {
+                "texto": "Betel",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o único livro da Bíblia que termina com um ponto de interrogação?",
+        "opcoes": [
+            {
+                "texto": "Naum",
+                "correta": false
+            },
+            {
+                "texto": "Jonas",
+                "correta": true
+            },
+            {
+                "texto": "Habacuque",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quais são os dois livros da Bíblia que não mencionam Deus?",
+        "opcoes": [
+            {
+                "texto": "Ester e Cantares",
+                "correta": true
+            },
+            {
+                "texto": "Eclesiastes e Ester",
+                "correta": false
+            },
+            {
+                "texto": "Cantares e Esdras",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o nome do anjo que apareceu a Zacarias para anunciar o nascimento de João Batista?",
+        "opcoes": [
+            {
+                "texto": "Miguel",
+                "correta": false
+            },
+            {
+                "texto": "Rafael",
+                "correta": false
+            },
+            {
+                "texto": "Gabriel",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual foi a mulher que escondeu dois espiões israelitas em sua casa?",
+        "opcoes": [
+            {
+                "texto": "Débora",
+                "correta": false
+            },
+            {
+                "texto": "Raabe",
+                "correta": true
+            },
+            {
+                "texto": "Ester",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi a primeira pessoa a ver Jesus após a ressurreição?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Maria Madalena",
+                "correta": true
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi jogado na cova dos leões?",
+        "opcoes": [
+            {
+                "texto": "Sadraque",
+                "correta": false
+            },
+            {
+                "texto": "Daniel",
+                "correta": true
+            },
+            {
+                "texto": "Abede-Nego",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem substituiu Judas Iscariotes como apóstolo?",
+        "opcoes": [
+            {
+                "texto": "Matias",
+                "correta": true
+            },
+            {
+                "texto": "Barnabé",
+                "correta": false
+            },
+            {
+                "texto": "Paulo",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual foi o primeiro milagre de Jesus?",
+        "opcoes": [
+            {
+                "texto": "Multiplicação dos pães",
+                "correta": false
+            },
+            {
+                "texto": "Cura de um cego",
+                "correta": false
+            },
+            {
+                "texto": "Transformação de água em vinho",
+                "correta": true
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem negou Jesus três vezes antes do galo cantar?",
+        "opcoes": [
+            {
+                "texto": "Judas",
+                "correta": false
+            },
+            {
+                "texto": "Pedro",
+                "correta": true
+            },
+            {
+                "texto": "Tomé",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem batizou Jesus?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "João Batista",
+                "correta": true
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual foi o discípulo que duvidou da ressurreição de Jesus?",
+        "opcoes": [
+            {
+                "texto": "Tomé",
+                "correta": true
+            },
+            {
+                "texto": "André",
+                "correta": false
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem cortou a orelha de um soldado quando Jesus foi preso?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": true
+            },
+            {
+                "texto": "João",
+                "correta": false
+            },
+            {
+                "texto": "André",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi lançado no mar e engolido por um grande peixe?",
+        "opcoes": [
+            {
+                "texto": "Jonas",
+                "correta": true
+            },
+            {
+                "texto": "Elias",
+                "correta": false
+            },
+            {
+                "texto": "Moisés",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o nome do jardim onde Jesus foi preso?",
+        "opcoes": [
+            {
+                "texto": "Getsêmani",
+                "correta": true
+            },
+            {
+                "texto": "Betânia",
+                "correta": false
+            },
+            {
+                "texto": "Cafarnaum",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era o nome do rei que tentou matar Jeremias?",
+        "opcoes": [
+            {
+                "texto": "Jeoaquim",
+                "correta": true
+            },
+            {
+                "texto": "Zedequias",
+                "correta": false
+            },
+            {
+                "texto": "Joaquim",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro rei de Judá após a divisão do reino de Israel?",
+        "opcoes": [
+            {
+                "texto": "Roboão",
+                "correta": true
+            },
+            {
+                "texto": "Abias",
+                "correta": false
+            },
+            {
+                "texto": "Asá",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos capítulos tem o livro de Obadias?",
+        "opcoes": [
+            {
+                "texto": "1",
+                "correta": true
+            },
+            {
+                "texto": "3",
+                "correta": false
+            },
+            {
+                "texto": "5",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual dos filhos de Jacó foi vendido pelos seus irmãos como escravo?",
+        "opcoes": [
+            {
+                "texto": "José",
+                "correta": true
+            },
+            {
+                "texto": "Judá",
+                "correta": false
+            },
+            {
+                "texto": "Benjamim",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o último livro do Antigo Testamento?",
+        "opcoes": [
+            {
+                "texto": "Malaquias",
+                "correta": true
+            },
+            {
+                "texto": "Ageu",
+                "correta": false
+            },
+            {
+                "texto": "Zacarias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o rei que escreveu o livro de Eclesiastes?",
+        "opcoes": [
+            {
+                "texto": "Salomão",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Ezequias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foram os dois profetas que resistiram a Acabe, rei de Israel?",
+        "opcoes": [
+            {
+                "texto": "Elias e Eliseu",
+                "correta": true
+            },
+            {
+                "texto": "Isaías e Jeremias",
+                "correta": false
+            },
+            {
+                "texto": "Amós e Oséias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Em que cidade Paulo foi preso e enviado para Roma?",
+        "opcoes": [
+            {
+                "texto": "Césaréia",
+                "correta": true
+            },
+            {
+                "texto": "Antióquia",
+                "correta": false
+            },
+            {
+                "texto": "Éfeso",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o último juiz de Israel?",
+        "opcoes": [
+            {
+                "texto": "Samuel",
+                "correta": true
+            },
+            {
+                "texto": "Sansão",
+                "correta": false
+            },
+            {
+                "texto": "Eli",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o nome do livro que narra a história de Ester?",
+        "opcoes": [
+            {
+                "texto": "Ester",
+                "correta": true
+            },
+            {
+                "texto": "Rute",
+                "correta": false
+            },
+            {
+                "texto": "Neemias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Em qual cidade Paulo foi apedrejado e deixado por morto?",
+        "opcoes": [
+            {
+                "texto": "Listra",
+                "correta": true
+            },
+            {
+                "texto": "Éfeso",
+                "correta": false
+            },
+            {
+                "texto": "Corinto",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos livros há no Novo Testamento?",
+        "opcoes": [
+            {
+                "texto": "27",
+                "correta": true
+            },
+            {
+                "texto": "39",
+                "correta": false
+            },
+            {
+                "texto": "24",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual profeta viu uma visão de um vale de ossos secos?",
+        "opcoes": [
+            {
+                "texto": "Ezequiel",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            },
+            {
+                "texto": "Jeremias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem era o rei de Israel quando o Reino se dividiu?",
+        "opcoes": [
+            {
+                "texto": "Roboão",
+                "correta": true
+            },
+            {
+                "texto": "Jeroboão",
+                "correta": false
+            },
+            {
+                "texto": "Acabe",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que desafiou o rei Acabe e os 450 profetas de Baal?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            },
+            {
+                "texto": "Malaquias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual foi a profissão de Zacarias, o pai de João Batista?",
+        "opcoes": [
+            {
+                "texto": "Sacerdote",
+                "correta": true
+            },
+            {
+                "texto": "Profeta",
+                "correta": false
+            },
+            {
+                "texto": "Rei",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o apóstolo que escreveu o livro de Atos dos Apóstolos?",
+        "opcoes": [
+            {
+                "texto": "Lucas",
+                "correta": true
+            },
+            {
+                "texto": "Paulo",
+                "correta": false
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual apóstolo escreveu o livro de Hebreus?",
+        "opcoes": [
+            {
+                "texto": "Paulo",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que o rei Nabucodonosor jogou na fornalha de fogo?",
+        "opcoes": [
+            {
+                "texto": "Daniel",
+                "correta": false
+            },
+            {
+                "texto": "Sadraque, Mesaque e Abednego",
+                "correta": true
+            },
+            {
+                "texto": "Ezequiel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o menor livro do Antigo Testamento?",
+        "opcoes": [
+            {
+                "texto": "Obadias",
+                "correta": true
+            },
+            {
+                "texto": "Ageu",
+                "correta": false
+            },
+            {
+                "texto": "Jonas",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que confrontou o rei Acaz, pedindo-lhe um sinal?",
+        "opcoes": [
+            {
+                "texto": "Isaías",
+                "correta": true
+            },
+            {
+                "texto": "Jeremias",
+                "correta": false
+            },
+            {
+                "texto": "Amós",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos anos viveu Matusalém?",
+        "opcoes": [
+            {
+                "texto": "969",
+                "correta": true
+            },
+            {
+                "texto": "930",
+                "correta": false
+            },
+            {
+                "texto": "950",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o rei que escreveu o livro de Provérbios?",
+        "opcoes": [
+            {
+                "texto": "Salomão",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Ezequias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual apóstolo escreveu o livro de Apocalipse?",
+        "opcoes": [
+            {
+                "texto": "João",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Paulo",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que viu a visão do carro de fogo?",
+        "opcoes": [
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Em qual cidade o apóstolo Paulo foi convertido?",
+        "opcoes": [
+            {
+                "texto": "Damasco",
+                "correta": true
+            },
+            {
+                "texto": "Jerusalém",
+                "correta": false
+            },
+            {
+                "texto": "Antióquia",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual apóstolo negou Jesus três vezes antes do galo cantar?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": true
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o último dos juízes de Israel antes da unificação do reino?",
+        "opcoes": [
+            {
+                "texto": "Samuel",
+                "correta": true
+            },
+            {
+                "texto": "Sansão",
+                "correta": false
+            },
+            {
+                "texto": "Eli",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era o nome do homem que foi engolido por um grande peixe?",
+        "opcoes": [
+            {
+                "texto": "Jonas",
+                "correta": true
+            },
+            {
+                "texto": "Daniel",
+                "correta": false
+            },
+            {
+                "texto": "Noé",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o nome do rei que construiu o Templo de Jerusalém?",
+        "opcoes": [
+            {
+                "texto": "Salomão",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Josias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Em que livro da Bíblia encontramos a história da Torre de Babel?",
+        "opcoes": [
+            {
+                "texto": "Gênesis",
+                "correta": true
+            },
+            {
+                "texto": "Êxodo",
+                "correta": false
+            },
+            {
+                "texto": "Levítico",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos dias Jesus passou no deserto sendo tentado pelo diabo?",
+        "opcoes": [
+            {
+                "texto": "40",
+                "correta": true
+            },
+            {
+                "texto": "30",
+                "correta": false
+            },
+            {
+                "texto": "50",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que foi levado ao céu em um redemoinho?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o rei que ordenou a construção da estátua de ouro em Dura?",
+        "opcoes": [
+            {
+                "texto": "Nabucodonosor",
+                "correta": true
+            },
+            {
+                "texto": "Ciro",
+                "correta": false
+            },
+            {
+                "texto": "Dario",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o livro da Bíblia que conta a história de Rute?",
+        "opcoes": [
+            {
+                "texto": "Rute",
+                "correta": true
+            },
+            {
+                "texto": "Juízes",
+                "correta": false
+            },
+            {
+                "texto": "1 Samuel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que teve um confronto com os 450 profetas de Baal no Monte Carmelo?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Malaquias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o discípulo conhecido por seu nome original, Saulo?",
+        "opcoes": [
+            {
+                "texto": "Paulo",
+                "correta": true
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            },
+            {
+                "texto": "Lucas",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que anunciou o nascimento de Jesus em Belém?",
+        "opcoes": [
+            {
+                "texto": "Miquéias",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            },
+            {
+                "texto": "Jeremias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que ungiu o rei Davi?",
+        "opcoes": [
+            {
+                "texto": "Samuel",
+                "correta": true
+            },
+            {
+                "texto": "Eli",
+                "correta": false
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos filhos tinha Jacó?",
+        "opcoes": [
+            {
+                "texto": "12",
+                "correta": true
+            },
+            {
+                "texto": "11",
+                "correta": false
+            },
+            {
+                "texto": "13",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o nome do profeta que foi chamado por Deus de 'homem segundo o coração de Deus'?",
+        "opcoes": [
+            {
+                "texto": "Davi",
+                "correta": true
+            },
+            {
+                "texto": "Saul",
+                "correta": false
+            },
+            {
+                "texto": "Salomão",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que desafiou o rei Acabe e seus profetas?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Amós",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual foi o primeiro milagre de Jesus?",
+        "opcoes": [
+            {
+                "texto": "Transformou água em vinho",
+                "correta": true
+            },
+            {
+                "texto": "Curou um cego",
+                "correta": false
+            },
+            {
+                "texto": "Ressuscitou Lázaro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual apóstolo escreveu a maioria das epístolas no Novo Testamento?",
+        "opcoes": [
+            {
+                "texto": "Paulo",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro apóstolo a ser martirizado?",
+        "opcoes": [
+            {
+                "texto": "Tiago",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual profeta foi engolido por um peixe após desobedecer a Deus?",
+        "opcoes": [
+            {
+                "texto": "Jonas",
+                "correta": true
+            },
+            {
+                "texto": "Amós",
+                "correta": false
+            },
+            {
+                "texto": "Miquéias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual rei judeu fez um censo que levou à batalha contra Deus?",
+        "opcoes": [
+            {
+                "texto": "Davi",
+                "correta": true
+            },
+            {
+                "texto": "Saul",
+                "correta": false
+            },
+            {
+                "texto": "Ezequias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que confrontou o rei Jeroboão?",
+        "opcoes": [
+            {
+                "texto": "Aías",
+                "correta": true
+            },
+            {
+                "texto": "Eliseu",
+                "correta": false
+            },
+            {
+                "texto": "Miquéias",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que desafiou o rei Manassés?",
+        "opcoes": [
+            {
+                "texto": "Isaías",
+                "correta": true
+            },
+            {
+                "texto": "Jeremias",
+                "correta": false
+            },
+            {
+                "texto": "Amós",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos livros compõem o Antigo Testamento?",
+        "opcoes": [
+            {
+                "texto": "39",
+                "correta": true
+            },
+            {
+                "texto": "27",
+                "correta": false
+            },
+            {
+                "texto": "40",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o último dos juízes de Israel?",
+        "opcoes": [
+            {
+                "texto": "Samuel",
+                "correta": true
+            },
+            {
+                "texto": "Sansão",
+                "correta": false
+            },
+            {
+                "texto": "Eli",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual apóstolo foi conhecido como o 'dúvida' por não ter acreditado na ressurreição de Jesus?",
+        "opcoes": [
+            {
+                "texto": "Tomé",
+                "correta": true
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual é o último livro do Antigo Testamento?",
+        "opcoes": [
+            {
+                "texto": "Malaquias",
+                "correta": true
+            },
+            {
+                "texto": "Amós",
+                "correta": false
+            },
+            {
+                "texto": "Ezequiel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual foi o nome da esposa de Abraão?",
+        "opcoes": [
+            {
+                "texto": "Sara",
+                "correta": true
+            },
+            {
+                "texto": "Rebeca",
+                "correta": false
+            },
+            {
+                "texto": "Raquel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o profeta que disse: 'O Senhor é o meu pastor, nada me faltará'?",
+        "opcoes": [
+            {
+                "texto": "Davi",
+                "correta": true
+            },
+            {
+                "texto": "Isaías",
+                "correta": false
+            },
+            {
+                "texto": "Jeremias",
+                "correta": false
+            }
+        ]
+    }
+]
