@@ -1,0 +1,338 @@
+[
+    {
+        "pergunta": "Quem construiu a Arca?",
+        "opcoes": [
+            {
+                "texto": "Moisés",
+                "correta": false
+            },
+            {
+                "texto": "Noé",
+                "correta": true
+            },
+            {
+                "texto": "Abraão",
+                "correta": false
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi lançado na cova dos leões?",
+        "opcoes": [
+            {
+                "texto": "Jonas",
+                "correta": false
+            },
+            {
+                "texto": "Daniel",
+                "correta": true
+            },
+            {
+                "texto": "José",
+                "correta": false
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem recebeu as tábuas da lei no Monte Sinai?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": false
+            },
+            {
+                "texto": "Moisés",
+                "correta": true
+            },
+            {
+                "texto": "Arão",
+                "correta": false
+            },
+            {
+                "texto": "Josué",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem traiu Jesus?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Judas Iscariotes",
+                "correta": true
+            },
+            {
+                "texto": "Tomé",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos dias Deus levou para criar o mundo?",
+        "opcoes": [
+            {
+                "texto": "3",
+                "correta": false
+            },
+            {
+                "texto": "5",
+                "correta": false
+            },
+            {
+                "texto": "6",
+                "correta": true
+            },
+            {
+                "texto": "7",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual era a profissão de Pedro antes de seguir Jesus?",
+        "opcoes": [
+            {
+                "texto": "Carpinteiro",
+                "correta": false
+            },
+            {
+                "texto": "Pescador",
+                "correta": true
+            },
+            {
+                "texto": "Médico",
+                "correta": false
+            },
+            {
+                "texto": "Pastor",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi engolido por um grande peixe?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": false
+            },
+            {
+                "texto": "Jonas",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Moisés",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o primeiro rei de Israel?",
+        "opcoes": [
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Saul",
+                "correta": true
+            },
+            {
+                "texto": "Salomão",
+                "correta": false
+            },
+            {
+                "texto": "Josué",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quantos livros tem a Bíblia?",
+        "opcoes": [
+            {
+                "texto": "60",
+                "correta": false
+            },
+            {
+                "texto": "66",
+                "correta": true
+            },
+            {
+                "texto": "72",
+                "correta": false
+            },
+            {
+                "texto": "80",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Qual o menor versículo da Bíblia?",
+        "opcoes": [
+            {
+                "texto": "Jesus chorou.",
+                "correta": true
+            },
+            {
+                "texto": "No princípio criou Deus os céus e a terra.",
+                "correta": false
+            },
+            {
+                "texto": "O Senhor é meu pastor.",
+                "correta": false
+            },
+            {
+                "texto": "A fé é o firme fundamento.",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi o irmão de Moisés?",
+        "opcoes": [
+            {
+                "texto": "Arão",
+                "correta": true
+            },
+            {
+                "texto": "Davi",
+                "correta": false
+            },
+            {
+                "texto": "Elias",
+                "correta": false
+            },
+            {
+                "texto": "Salomão",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem matou Golias?",
+        "opcoes": [
+            {
+                "texto": "Saul",
+                "correta": false
+            },
+            {
+                "texto": "Davi",
+                "correta": true
+            },
+            {
+                "texto": "Sansão",
+                "correta": false
+            },
+            {
+                "texto": "Ezequiel",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem escreveu a maioria das cartas do Novo Testamento?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": false
+            },
+            {
+                "texto": "Paulo",
+                "correta": true
+            },
+            {
+                "texto": "Tiago",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem negou Jesus três vezes?",
+        "opcoes": [
+            {
+                "texto": "Pedro",
+                "correta": true
+            },
+            {
+                "texto": "Judas",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": false
+            },
+            {
+                "texto": "Tomé",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem escreveu o livro de Apocalipse?",
+        "opcoes": [
+            {
+                "texto": "Paulo",
+                "correta": false
+            },
+            {
+                "texto": "João",
+                "correta": true
+            },
+            {
+                "texto": "Lucas",
+                "correta": false
+            },
+            {
+                "texto": "Pedro",
+                "correta": false
+            }
+        ]
+    },
+    {
+        "pergunta": "Quem foi levado ao céu numa carruagem de fogo?",
+        "opcoes": [
+            {
+                "texto": "Elias",
+                "correta": true
+            },
+            {
+                "texto": "Moisés",
+                "correta": false
+            },
+            {
+                "texto": "Enoque",
+                "correta": false
+            },
+            {
+                "texto": "Abraão",
+                "correta": false
+            }
+        ]
+    }
+]
