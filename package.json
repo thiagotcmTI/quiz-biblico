@@ -2,7 +2,7 @@
   "name": "nome-do-seu-projeto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thiagotcmti.github.io/create-connect/quiz-biblico",
+  "homepage": "https://thiagotcmti.github.io/quiz-biblico",
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
