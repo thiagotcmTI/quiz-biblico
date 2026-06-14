@@ -37,7 +37,7 @@ button {
   min-height: 100vh;
   display: grid;
   place-items: center;
-  padding: 24px;
+  padding: 12px;
 }
 
 .home-layout,
@@ -49,7 +49,7 @@ button {
 .home-layout {
   display: grid;
   grid-template-columns: minmax(0, 1.12fr) minmax(330px, 0.88fr);
-  gap: 24px;
+  gap: 18px;
   align-items: stretch;
 }
 
@@ -65,11 +65,11 @@ button {
 
 .hero-stage {
   position: relative;
-  min-height: 650px;
+  min-height: min(560px, calc(100vh - 24px));
   display: grid;
   align-content: end;
   overflow: hidden;
-  padding: clamp(28px, 6vw, 70px);
+  padding: clamp(24px, 4vw, 44px);
   color: #fff;
   background:
     radial-gradient(circle at 82% 18%, rgba(201, 144, 46, 0.42), transparent 30%),
@@ -90,9 +90,9 @@ button {
 
 .orbital-map {
   position: absolute;
-  top: clamp(30px, 6vw, 70px);
-  right: clamp(22px, 6vw, 86px);
-  width: min(330px, 48vw);
+  top: clamp(24px, 4.8vw, 52px);
+  right: clamp(22px, 5vw, 68px);
+  width: min(286px, 42vw);
   aspect-ratio: 1;
   display: grid;
   place-items: center;
@@ -133,8 +133,8 @@ button {
 }
 
 .core-mark {
-  width: 96px;
-  height: 96px;
+  width: 82px;
+  height: 82px;
   display: grid;
   place-items: center;
   color: #14110c;
@@ -154,7 +154,8 @@ button {
 .hero-copy {
   position: relative;
   z-index: 1;
-  max-width: 760px;
+  max-width: 720px;
+  padding-right: clamp(0px, 2vw, 18px);
 }
 
 .hero-copy h1,
@@ -166,15 +167,16 @@ button {
 }
 
 .hero-copy h1 {
-  font-size: clamp(3rem, 7vw, 6.2rem);
-  line-height: 0.92;
+  overflow-wrap: anywhere;
+  font-size: clamp(2.25rem, 5.2vw, 4.6rem);
+  line-height: 0.98;
 }
 
 .hero-copy p:not(.eyebrow) {
-  margin: 20px 0 28px;
+  margin: 16px 0 22px;
   color: rgba(255, 255, 255, 0.8);
-  font-size: clamp(1.05rem, 2vw, 1.28rem);
-  line-height: 1.58;
+  font-size: clamp(1rem, 1.7vw, 1.16rem);
+  line-height: 1.5;
 }
 
 .eyebrow,
@@ -215,8 +217,8 @@ button {
 .start-panel {
   display: grid;
   align-content: center;
-  gap: 18px;
-  padding: clamp(22px, 4vw, 36px);
+  gap: 14px;
+  padding: clamp(18px, 2.6vw, 24px);
   background: rgba(255, 253, 248, 0.94);
   backdrop-filter: blur(12px);
 }
@@ -224,7 +226,7 @@ button {
 .start-panel h2 {
   margin: 0;
   color: var(--ink);
-  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-size: clamp(1.65rem, 3.2vw, 2.55rem);
   line-height: 1.05;
 }
 
@@ -236,7 +238,7 @@ button {
 
 .level-options {
   display: grid;
-  gap: 12px;
+  gap: 10px;
 }
 
 .level-card {
@@ -246,7 +248,7 @@ button {
   grid-template-columns: auto 1fr;
   gap: 5px 12px;
   align-items: start;
-  padding: 16px;
+  padding: 13px;
   color: var(--text);
   background: #fff;
   border: 1px solid var(--line);
@@ -284,7 +286,7 @@ button {
 
 .level-card strong {
   color: var(--ink);
-  font-size: 1.1rem;
+  font-size: 1.02rem;
 }
 
 .level-card small,
@@ -304,7 +306,7 @@ button {
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 14px;
+  padding: 12px;
   background: #f7efe0;
   border: 1px solid var(--line);
   border-radius: 16px;
@@ -312,7 +314,7 @@ button {
 
 .bank-summary strong {
   color: var(--ink);
-  font-size: 2rem;
+  font-size: 1.65rem;
 }
 
 .bank-summary span {
@@ -624,7 +626,7 @@ button {
   }
 
   .hero-stage {
-    min-height: 620px;
+    min-height: auto;
   }
 
   .answer-grid,
@@ -647,12 +649,12 @@ button {
   }
 
   .hero-stage {
-    min-height: 600px;
-    padding: 24px;
+    min-height: auto;
+    padding: 22px;
   }
 
   .orbital-map {
-    width: 240px;
+    width: 210px;
     opacity: 0.62;
   }
 

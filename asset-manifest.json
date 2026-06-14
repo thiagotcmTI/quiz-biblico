@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quiz-biblico/static/css/main.b2a9878d.css",
+    "main.css": "/quiz-biblico/static/css/main.db449031.css",
     "main.js": "/quiz-biblico/static/js/main.65f294de.js",
     "static/js/488.bdb6999d.chunk.js": "/quiz-biblico/static/js/488.bdb6999d.chunk.js",
     "index.html": "/quiz-biblico/index.html",
-    "main.b2a9878d.css.map": "/quiz-biblico/static/css/main.b2a9878d.css.map",
+    "main.db449031.css.map": "/quiz-biblico/static/css/main.db449031.css.map",
     "main.65f294de.js.map": "/quiz-biblico/static/js/main.65f294de.js.map",
     "488.bdb6999d.chunk.js.map": "/quiz-biblico/static/js/488.bdb6999d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2a9878d.css",
+    "static/css/main.db449031.css",
     "static/js/main.65f294de.js"
   ]
 }
