@@ -184,9 +184,6 @@ function HomeScreen({ selectedLevel, onSelectLevel, onStart, questionBank, apiEn
         <aside className="start-panel" aria-label="Escolha de nível">
           <span className="panel-kicker">Modo de jogo</span>
           <h2>Escolha sua dificuldade</h2>
-          <p>
-            As perguntas repetidas foram removidas entre os níveis para deixar a progressão mais justa.
-          </p>
 
           <div className="level-options">
             {levelOrder.map((levelKey) => (
